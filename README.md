@@ -15,4 +15,4 @@ The most struggling part for me on this project was to get the layout working ni
 If I had more time to work on this project I would start with sketching down the parent and child (and maybe children to these) containers on paper in order to see more clearly when it later comes to setting the rules in CSS. I would also, for fun, try out a hero video instead of an image and also try to be better at minimizing my use of media queries. All in all, a very good learning journey and exciting to try out some Vanilla JS!
 
 ## View it live
-Here's a link to the project: https://fervent-jepsen-be4bb1.netlify.app/ I hope you will enjoy it! Please fill out the form to check if it works for you and also, there's a little surprise if you click the header title! ;)
+Here's a link to the project: https://project-business-site-by-camilla.netlify.app/ I hope you will enjoy it! Please fill out the form to check if it works for you and also, there's a little surprise if you click the header title! ;)
